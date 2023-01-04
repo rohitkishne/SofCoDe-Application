@@ -9,4 +9,4 @@ It is a simple application which basically handles reducing &amp; de-reducing of
 1. JavaSwing Libraries --> for Creating interative Graphical User Interface (GUI).
 
 # Framework :
---> Java Maven Build tool 
+--> Java Maven 
